@@ -1,0 +1,38 @@
+.bandeau{
+    background-color: aqua;
+    height: 100%;
+}    
+div#menuhaut {
+	width:20%;
+	height: 200px;
+	background-color:#66CC33;
+}
+
+    
+div#menubas {
+	width:20%;
+	height:200px;
+	background-color:#CC99CC;
+}
+.contenu{
+    background-color: yellow;
+    height: 350px;
+    padding-top: 50px;
+    width: 80%;
+    float: right;
+    text-align: center;
+}
+
+.pieddepage{
+    background-color: green;
+    height: 100%;
+    text-align: center;
+    
+}
+.menudroit{
+    background-color: brown;
+    float: right;
+    position:absolute;
+    width: 100px;
+    height: 75px;
+}

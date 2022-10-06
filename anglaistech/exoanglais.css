@@ -8,8 +8,7 @@
 }
 .divdroite{
     float: left;
-    background-color: #124892;
-    text-align: center;
+    text-align: right;
     height: 1000px;
     width: 50%;
 }
@@ -22,7 +21,6 @@
 }
 
 .box .box2 {
-    background: #325674;
     text-align: right;
     width: 50%;
     text-align: right;
@@ -34,4 +32,14 @@
     flex-direction: row;
     padding-bottom: 50px; 
     height: 150px;   
+}
+
+#skills{
+    margin-right: 100px;
+}
+
+#liste{
+    margin-left: 600px;
+    text-align: left;
+
 }

@@ -1,0 +1,24 @@
+.bandeau{
+    background-color: aqua;
+    height: 100%;
+}    
+.menu{
+    background-color: pink;
+    float: left;
+    width: 20%;
+    height: 500px;
+    text-align: center;
+    padding-top: 200px;
+}
+.contenu{
+    background-color: yellow;
+    height: 500px;
+    padding-top: 200px;
+    text-align: center;
+}
+.pieddepage{
+    background-color: green;
+    height: 100%;
+    text-align: center;
+    
+}
