@@ -16,11 +16,11 @@ div#menubas {
 }
 .contenu{
     background-color: yellow;
-    height: 350px;
-    padding-top: 50px;
+    height: 400px;
+    /*padding-top: 50px;*/
     width: 80%;
     float: right;
-    text-align: center;
+    clear: both;
 }
 
 .pieddepage{
@@ -32,7 +32,6 @@ div#menubas {
 .menudroit{
     background-color: brown;
     float: right;
-    position:absolute;
-    width: 100px;
+    width: 10%;
     height: 75px;
 }
